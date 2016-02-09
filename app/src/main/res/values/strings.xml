@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">File Scanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    // main activity strings
+    <string name="welcome_title">Welcome to File Scanner</string>
+    <string name="start">start scanning</string>
+    <string name="stop">stop scanning</string>
+    <string name="share">share result</string>
+    <string name="share_msg">Here is the file statistics from Cellphone SD card.</string>
+    <string name="no_sd_card_warning">SD Card could not be found on your device.</string>
+    <string name="scanning">Scanning . . .</string>
+
+    // notification strings
+    <string name="notif_title">File Scanner is Working</string>
+    <string name="notif_message">File Scanner is scanning your SD card. The statistics will be updated soon.</string>
+    <string name="stop_scanning">Stop scanning</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
